@@ -8,6 +8,7 @@ A place for links to aggregators of computer science papers and books.
   1. https://github.com/awh/compsci-papers
   2. https://github.com/vlall/Ai-Papers
   3. https://github.com/mneedham/computer-science-papers
+  4. https://github.com/papers-we-love/papers-we-love
 - other
   1. https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
 
