@@ -14,5 +14,10 @@ A place for links to aggregators of computer science papers and books.
 
 ## Books
 
-1. https://github.com/cs-books/influential-cs-books
-2. https://github.com/priseup/influential-programming-books/blob/master/books.md
+- GitHub
+  1. https://github.com/cs-books/influential-cs-books
+  2. https://github.com/priseup/influential-programming-books/blob/master/books.md
+
+- other
+  1. https://www.daolf.com/posts/best-programming-books/
+  
