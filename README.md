@@ -9,6 +9,7 @@ Topics that interest me. Must read. Study. Eventually ;)
 ## topics
 
 - [compsci](./compsci.md)
+- [algo and dsa](./algo-dsa.md)
 
 ---
 
